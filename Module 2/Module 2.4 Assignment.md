@@ -21,7 +21,7 @@ echo "Hola" > README.md
 git add .
 git commit -m"second commit on master"
 git merge new-branch
-```
+
 
 This "script" will create a merge conflict. Resolve the merge conflict so the text in `README.md` is `"Hello World"`.
 
